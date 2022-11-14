@@ -10,3 +10,6 @@ Plugin gratuito para comunicarse con impresoras térmicas Bluetooth en Android y
 # Descargas
 
 En los releases: https://github.com/parzibyte/plugin-impresora-termica-bt-android/releases/latest
+
+# Ayuda
+Envíame un mensaje en https://parzibyte.me/#contacto
